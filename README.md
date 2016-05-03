@@ -9,7 +9,7 @@ Also there will be centrolized storage for all resources and material for course
 ## Lesson 2: Syntax, Types, Expressions and Statements.
   - [Slides](http://slides.com/diodredd/deck-1)
   - [Code Example]()
-  - [Tasks]()
+  - [Tasks](https://github.com/DioDread/JavaScript-training/blob/master/task1/description.md)
 
   
 
