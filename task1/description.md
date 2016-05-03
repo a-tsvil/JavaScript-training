@@ -4,7 +4,7 @@
 and get my tremendous respect.
 
 Main goal of this tasks is teach you how to use JS Statements, learn some syntax, and get brief look on JS typecasting features.
-All mandatory tasks need to be performed until next **monday** (8/3/2016). Please pay attention, overdue without serious reasons and explanations
+All mandatory tasks need to be performed until next **friday** (13/5/2016). Please pay attention, overdue without serious reasons and explanations
 will reflects in your course feedback.
 
 Tasks will be divided on three groups:
@@ -73,7 +73,9 @@ var output = {
     key3: 'value3'
 };
 ```
+
     * Advanced part: if there is colon (":") next part will be treats as array of objects;
+
 
     ```javascript
     var data = ";key,value;key1,value;arrayHere:k1,v1;k2,v2;k3,v3";
