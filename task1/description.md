@@ -76,16 +76,15 @@ var output = {
 
     * Advanced part: if there is colon (":") next part will be treats as array of objects;
 
-
-    ```javascript
-    var data = ";key,value;key1,value;arrayHere:k1,v1;k2,v2;k3,v3";
-    var output = {
-        key: 'value',
-        key1: 'value1',
-        arrayHere: [
-            { k1: 'v1' },
-            { k2: 'v2' },
-            { k3: 'v3' }
-        ]
-    };
-    ```
+  ```javascript
+  var data = ";key,value;key1,value;arrayHere:k1,v1;k2,v2;k3,v3";
+  var output = {
+      key: 'value',
+      key1: 'value1',
+      arrayHere: [
+          { k1: 'v1' },
+          { k2: 'v2' },
+          { k3: 'v3' }
+      ]
+  };
+  ```
