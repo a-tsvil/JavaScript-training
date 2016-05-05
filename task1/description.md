@@ -62,7 +62,11 @@ res = [
 
 ## Statements Tasks
 
-* Given two string return return sum of all digits in this string (maybe separated by letters), don't forget to check if string is a hexadecimal number;
+* Given two strings(digits which maybe separated by letters), return sum of all numbers in this strings, don't forget to check if string is a hexadecimal number. For advanced part you may want to create sum of all digits in parsed numbers include hexadecimal digits (A, B, C, D, E, F);
+```javascript
+var str1 = '123x1z13', str2 = 'a123';
+// 123113 + 0xbA123 = 885260
+```
 * **SemiColonSON (CommaColonSON)** Given the following data, separate by commas and semicolons, parse
 it in JS object in following way
 ```javascript
