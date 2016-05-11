@@ -11,5 +11,16 @@ Also there will be centrolized storage for all resources and material for course
   - [Code Example](https://plnkr.co/edit/wyHA8CCYSyrOYUIfXtj9)
   - [Tasks](https://github.com/DioDread/JavaScript-training/blob/master/task1/description.md)
 
-  
+## Lesson 3: Base Types: Object & Array.
+  - [Code Example](#)
+  - [Tasks](#)
 
+## Lesson 4: Base Types: Function.  
+  - [Slides](#)
+  - [Code Example](#)
+  - [Tasks](#)
+
+## Lesson 5: Prototype-Oriented Programming.
+  - [Slides](#)
+  - [Code Example](#)
+  - [Tasks](#)
