@@ -17,7 +17,7 @@ Also there will be centrolized storage for all resources and material for course
 
 ## Lesson 4: Base Types: Function.  
   - [Slides](#)
-  - [Code Example](#)
+  - [Code Example](http://plnkr.co/edit/FmbeLm2PHuP3NNRgcAhe?p=preview)
   - [Tasks](#)
 
 ## Lesson 5: Prototype-Oriented Programming.
