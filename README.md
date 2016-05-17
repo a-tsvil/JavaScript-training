@@ -21,6 +21,6 @@ Also there will be centrolized storage for all resources and material for course
   - [Tasks](#)
 
 ## Lesson 5: Prototype-Oriented Programming.
-  - [Slides](#)
+  - [Slides](http://slides.com/diodredd/deck-3)
   - [Code Example](#)
   - [Tasks](#)
