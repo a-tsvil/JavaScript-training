@@ -36,6 +36,7 @@ Implement function which will determine is given object array like or not.
 ### Object Debehaviorizer.
 Implement function which will receive object as argument, and remove any behavior related properties from it, leave object with only state related properties. In case if object properties (or object itself, Object.freeze()/seal()) is non-configurable try to perform appropriate actions, or create proper error, which can be handled by try/catch/finally. Function should return new object with only state within. Or mutate existing object and return array with all behavior in it depending on second boolean argument (_isBehaviorSeparate_) which is supplied or not;
 ```JavaScriptя 
+// Some very complicated is object, named as veryComplicatedObject is created above;
 var stateObj = debehaviorize(veryComplicatedObject);
 var onlyBehavior = debehaviorize(veryComplicatedObject, true);
 // veryComplicatedObject is now same to behaviorLess;
