@@ -92,4 +92,4 @@ This tool is really simple, you can find it online, I am integrated it in 3 diff
 * [Installation Guide can be found here](http://jshint.com/install/)
 * [Usage and configuration ways](http://jshint.com/docs/)
 
-If you will have questions about code styles, feel free to ask. **Good Luck!**
+If you will have questions about tasks or code styles, feel free to ask. **Good Luck!**
