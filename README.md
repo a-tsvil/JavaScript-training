@@ -22,3 +22,8 @@ Also there will be centrolized storage for all resources and material for course
   - [Slides](http://slides.com/diodredd/deck-3)
   - [Code Example](#)
   - [Tasks](#)
+
+## Lesson 6: JS in WebBrowsers: Window object.
+  - [Slides](http://slides.com/diodredd/deck-4/fullscreen)
+  - [Code Example](http://plnkr.co/edit/5oLgletki9OZJnA7KJJp?p=info)
+  - [Tasks](#)
