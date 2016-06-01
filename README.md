@@ -32,21 +32,15 @@ Here I will post some tasks, and possible solutions for it. Also there will be c
 
 - [Slides](http://slides.com/diodredd/deck-4/fullscreen)
 - [Code Example](http://plnkr.co/edit/5oLgletki9OZJnA7KJJp?p=info)
-- [Tasks](#)
 
 ## Lesson 7: JS in WebBrowsers: Document.
 
-- [Tasks](#)
-
 ## Lesson 8: JS in WebBrowsers: Event Handling.
-
-- [Code Example](#)
-- [Tasks](#)
 
 ## Lesson 9: JS in WebBrowsers: Scripting HTTP.
 
 - [Code Example](#)
-- [Tasks](#)
+- [Tasks](https://github.com/DioDread/JavaScript-training/blob/master/task4/description.md)
 
 ## Lesson 10: JS in WebBrowsers: HTML5 API, Media and Storage.
 

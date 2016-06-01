@@ -1,0 +1,62 @@
+<application
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://wadl.dev.java.net/2009/02 wadl.xsd"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns="http://wadl.dev.java.net/2009/02">
+
+    <resources base="localhost">
+        <method name="GET">
+            <resource path="getDocuments">
+                <response status="200">
+                    <representation mediaType="application/json" element="ResultSet"/>
+                </response>
+                <response status="400">
+                    <representation mediaType="application/json" element="Error"/>
+                </response>
+            </resource>
+            <resource path="getDocuments">
+                <response status="200">
+                    <representation mediaType="application/json" element="ResultSet"/>
+                </response>
+                <response status="400">
+                    <representation mediaType="application/json" element="Error"/>
+                </response>
+            </resource>
+            <resource path="getDocumentById">
+                <request>
+                    <param name="docId" type="xsd:string" style="query" required="true"/>
+                </request>
+                <response status="200">
+                    <representation mediaType="application/json" element="ResultSet"/>
+                </response>
+                <response status="400">
+                    <representation mediaType="application/json" element="Error"/>
+                </response>
+            </resource>
+            <resource path="getDocumentFragment">
+                <request>
+                    <param name="docId" type="xsd:string" style="query" required="true"/>
+                    <param name="fragmentId" type="xsd:string" style="query" required="true"/>
+                </request>
+                <response status="200">
+                    <representation mediaType="application/json" element="ResultSet"/>
+                </response>
+                <response status="400">
+                    <representation mediaType="application/json" element="Error"/>
+                </response>
+            </resource>
+        </method>
+        <method name="POST">
+            <request>
+                <representation mediaType="application/json">
+                </representation>
+            </request>
+            <response status="200">
+                <representation mediaType="application/json" element="ResultSet"/>
+            </response>
+            <response status="400">
+                <representation mediaType="application/json" element="Error"/>
+            </response>
+        </method>
+    </resources>
+</application>
