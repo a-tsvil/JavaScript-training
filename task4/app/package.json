@@ -2,7 +2,7 @@
     "name": "great-node-based-backend",
     "version": "0.0.1",
     "main": "app.js",
-    "description": "Some stuff what you really needed.",
+    "description": "Some document serving stuff what you really needed.",
     "dependencies": {
         "express": "~4",
         "body-parser": "1.15.1 ",

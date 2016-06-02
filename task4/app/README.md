@@ -60,3 +60,5 @@ and NPM distribution installed on your pc.
   ```bash
    info: Document service app started at port: 3000
   ```
+## License Notes
+In case if you can't handle this app for you front-end needs, you can easily change it sources, but remember that I will test it on my own version.

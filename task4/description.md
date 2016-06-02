@@ -29,6 +29,7 @@ You free in selection of architectural approaches. But there are few important l
 * Stick to SPA architectural approaches
 * Try to create smooth animations of doc scrolling if it is possible
 * Saving and creation of new documents is optional features which falls to advanced part.
+* Try create partial document loading, not stick to single documents pack loading(I ensure, this is will be slow call :) ), try split it on event based ajax calls.
 * **Deadline is 13.05.2016.**
 
 ### Conclusion
