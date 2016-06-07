@@ -159,7 +159,7 @@ app.listen(3000, function() {
 
 //Adding some reality
 function randomDealy() {
-    var dealy = Math.random() * 3000 + 1000;
+    var delay = Math.random() * 3000 + 1000;
     logger.info('generating random delay which is now: ' + delay);
     return delay;
 }
