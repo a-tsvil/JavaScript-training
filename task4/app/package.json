@@ -1,6 +1,6 @@
 {
     "name": "great-node-based-backend",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "main": "app.js",
     "description": "Some document serving stuff what you really needed.",
     "dependencies": {
