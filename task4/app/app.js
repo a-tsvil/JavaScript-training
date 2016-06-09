@@ -22,6 +22,15 @@ app.use(bodyParser.urlencoded({
     extended: false
 }));
 
+// CORS enabled.s
+app.use(function(req, res, next) {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
+    res.header('Access-Control-Allow-Headers', 'Content-Type');
+
+    next();
+});
+
 //Pretty same as @RequestMapping annotation of the Spring framework
 app.get('/docs.svc', function(req, res) {
     res.sendFile(__dirname + '/docs.svc.wadl.xml');
