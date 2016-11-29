@@ -1,5 +1,5 @@
 # JavaScript Training
-
+## -- Core JS Part --
 Here I will post some tasks, and possible solutions for it. Also there will be centrolized storage for all resources and material for course.
 
 ## Lesson 1: JS Introduction
@@ -28,6 +28,8 @@ Here I will post some tasks, and possible solutions for it. Also there will be c
 - [Code Example](#)
 - [Tasks](#)
 
+## -- Browser Scripting --
+
 ## Lesson 6: JS in WebBrowsers: Window object.
 
 - [Slides](http://slides.com/diodredd/deck-4/fullscreen)
@@ -47,3 +49,13 @@ Here I will post some tasks, and possible solutions for it. Also there will be c
 - [Slides](#)
 - [Code Example](#)
 - [Tasks](#)
+
+## -- ReactJS --
+
+## Lesson 11: React \#1
+
+## Lesson 12: React \#2
+
+## Lesson 13: React \#3
+
+## Lesson 14: React \#4
