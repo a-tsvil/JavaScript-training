@@ -92,3 +92,20 @@ var output = {
       ]
   };
   ```
+## Important Note!
+All tasks **must be** performed in **browser independent style**, best way it's to implement it and test under **NodeJS**. Send pure JS files with your task solutions (count of file depends on you).
+## Helpful Information
+NodeJS distributive and guides can be found [here](https://nodejs.org/en/) and [here](https://nodejs.org/en/download/package-manager/). 
+After you install it, you need to verify your installation - run in comand line following:
+```sh
+$ node -v
+```
+Assuming valid install and existing node variable in system PATH, you should see something like this(it's depends on selected version, I reccomend to choose LTS):
+```sh
+v6.5.0
+```
+After this you can run your code simply:
+```sh
+$ node your-script.js
+```
+To debug your code you can use console.log().
