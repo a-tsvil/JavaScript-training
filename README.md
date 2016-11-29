@@ -1,6 +1,7 @@
 # JavaScript Training
-## -- Core JS Part --
 Here I will post some tasks, and possible solutions for it. Also there will be centrolized storage for all resources and material for course.
+
+## -- Core JS Part --
 
 ## Lesson 1: JS Introduction
 
