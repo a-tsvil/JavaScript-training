@@ -24,7 +24,7 @@ All you need is create function to perform following actions, this function will
 
 ## Array Tasks
 
-Classical array tasks which you possible with familiar:
+Classical array tasks with which you possible familiar:
 
 * Array sorting
     * Insertion sort
