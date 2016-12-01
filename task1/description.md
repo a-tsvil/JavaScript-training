@@ -14,13 +14,13 @@ Tasks will be divided on three groups:
 
 ## String Tasks
 
-All you need is create function to perform following actions, this function will take string and return string exclude last one which will return object:
+All you need is create function to perform following actions, this function will take string and return string or boolean:
 
-* Reverse String
-* Check if string ends with
-* Check if string begins with
-* Check if string is in camelCase (CamelClass)
-* Check if string is in Pascal_Case (pascal_case_to)
+* Reverse String - string
+* Check if string ends with - boolean
+* Check if string begins with - boolean
+* Check if string is in camelCase (CamelClass) - boolean
+* Check if string is in Pascal_Case (pascal_case_to) - boolean
 
 ## Array Tasks
 
