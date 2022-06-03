@@ -33,4 +33,6 @@ This task doesn't require you to persist your data in any way between app execut
 As was mentioned before, this app doesn't require any GUI, nor it should be implemented as a frontend web application. So how we can implement it then? For simplicity, we can do that as a Node.js command-line app! As a reference on how to create persistent running command-line apps use the example from [here](guessing-game/guessing-game-cli.js). Using the same approach you can build your own command-line interface for the Catalog Application with all necessary actions that can be selected from the same menu in textual form.
 
 ## Note On How It Would Be Evaluated
-There are no strict guidelines on how to implement this task, besides that it should be written in an object-oriented programming style, the rest is on you! Try to abstract your code as much as your fantasy and understanding allow you! Happy coding and May the Force be with you! <(-_-)>
+There are no strict guidelines on how to implement this task, besides that it should be written in an object-oriented programming style, the rest is on you! Try to abstract your code as much as your fantasy and understanding allow you! Happy coding and May the Force be with you! 
+
+<(-_-)>
